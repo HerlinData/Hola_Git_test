@@ -1,2 +1,2 @@
-print("Hola Git antes de editar")
+print("Hola GitHub")
 print("¿Todo bien?")
