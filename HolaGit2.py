@@ -1,2 +1,2 @@
-print("Hola Git 2")
+print("Hola GitHub 2")
 print("funk")
